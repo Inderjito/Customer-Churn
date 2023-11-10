@@ -14,12 +14,12 @@ This goal of this project is to perform Exploratory Data Analysis(EDA) on Tele C
 5. Scklean package
 
 ## Data Preparation
-Load data
-view dataframe
-check for missing values - no missing values
-look for outlier
-Ensure all entries are numeric for modeling
-Handle categorical and text data appropriately
+- Load data
+- view dataframe
+- check for missing values - no missing values
+- look for outlier
+- Ensure all entries are numeric for modeling
+- Handle categorical and text data appropriately
 
 
 ### Build Model
