@@ -2,7 +2,7 @@
 
 
 ## About this project
-~This goal of this project is to perform Exploratory Data Analysis(EDA) on Tele Customer Churn data, to investigate -the data, uncover valuable insights such customer churn rate, correlation among various features and features -importance~
+This goal of this project is to perform Exploratory Data Analysis(EDA) on Tele Customer Churn data, to investigate -the data, uncover valuable insights such customer churn rate, correlation among various features and features -importance
 
 **The Following step was taken for this analysis**
 
